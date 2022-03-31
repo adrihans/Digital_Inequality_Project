@@ -1,0 +1,157 @@
+candidat,n_week,intentions
+Anne Hidalgo,1,3.642857142857143
+Anne Hidalgo,2,3.7142857142857144
+Anne Hidalgo,3,2.75
+Anne Hidalgo,4,2.9166666666666665
+Anne Hidalgo,5,2.8125
+Anne Hidalgo,6,2.5625
+Anne Hidalgo,7,2.5714285714285716
+Anne Hidalgo,8,2.2941176470588234
+Anne Hidalgo,9,2.325
+Anne Hidalgo,10,2.3333333333333335
+Anne Hidalgo,11,2.4074074074074074
+Anne Hidalgo,12,2.14
+Anne Hidalgo,13,2.125
+Emmanuel Macron,1,24.857142857142858
+Emmanuel Macron,2,24.5
+Emmanuel Macron,3,24.333333333333332
+Emmanuel Macron,4,24.25
+Emmanuel Macron,5,24.25625
+Emmanuel Macron,6,24.34375
+Emmanuel Macron,7,24.678571428571427
+Emmanuel Macron,8,24.794117647058822
+Emmanuel Macron,9,27.25
+Emmanuel Macron,10,30.428571428571427
+Emmanuel Macron,11,29.85185185185185
+Emmanuel Macron,12,28.48
+Emmanuel Macron,13,27.875
+Eric Zemmour,1,12.642857142857142
+Eric Zemmour,2,12.857142857142858
+Eric Zemmour,3,12.291666666666666
+Eric Zemmour,4,13.25
+Eric Zemmour,5,13.78125
+Eric Zemmour,6,14.34375
+Eric Zemmour,7,14.714285714285714
+Eric Zemmour,8,14.882352941176471
+Eric Zemmour,9,12.95
+Eric Zemmour,10,11.928571428571429
+Eric Zemmour,11,11.851851851851851
+Eric Zemmour,12,10.56
+Eric Zemmour,13,10.625
+Fabien Roussel,1,2.642857142857143
+Fabien Roussel,2,2.142857142857143
+Fabien Roussel,3,2.375
+Fabien Roussel,4,2.9166666666666665
+Fabien Roussel,5,3.15625
+Fabien Roussel,6,3.75
+Fabien Roussel,7,4.25
+Fabien Roussel,8,4.264705882352941
+Fabien Roussel,9,3.85
+Fabien Roussel,10,3.857142857142857
+Fabien Roussel,11,3.9074074074074074
+Fabien Roussel,12,3.56
+Fabien Roussel,13,3.25
+Jean Lassalle,1,1.0714285714285714
+Jean Lassalle,2,1.2857142857142858
+Jean Lassalle,3,1.3333333333333333
+Jean Lassalle,4,0.9583333333333334
+Jean Lassalle,5,0.96875
+Jean Lassalle,6,1.21875
+Jean Lassalle,7,1.25
+Jean Lassalle,8,1.3235294117647058
+Jean Lassalle,9,1.5
+Jean Lassalle,10,1.9761904761904763
+Jean Lassalle,11,2.462962962962963
+Jean Lassalle,12,2.38
+Jean Lassalle,13,2.375
+Jean-Luc Mélenchon,1,9.642857142857142
+Jean-Luc Mélenchon,2,9.928571428571429
+Jean-Luc Mélenchon,3,9.791666666666666
+Jean-Luc Mélenchon,4,9.583333333333334
+Jean-Luc Mélenchon,5,10.0
+Jean-Luc Mélenchon,6,9.84375
+Jean-Luc Mélenchon,7,10.607142857142858
+Jean-Luc Mélenchon,8,11.264705882352942
+Jean-Luc Mélenchon,9,11.275
+Jean-Luc Mélenchon,10,11.214285714285714
+Jean-Luc Mélenchon,11,12.25925925925926
+Jean-Luc Mélenchon,12,13.76
+Jean-Luc Mélenchon,13,14.625
+Marine Le Pen,1,16.285714285714285
+Marine Le Pen,2,16.928571428571427
+Marine Le Pen,3,17.208333333333332
+Marine Le Pen,4,17.041666666666668
+Marine Le Pen,5,17.0
+Marine Le Pen,6,16.90625
+Marine Le Pen,7,16.285714285714285
+Marine Le Pen,8,16.558823529411764
+Marine Le Pen,9,17.3
+Marine Le Pen,10,17.595238095238095
+Marine Le Pen,11,17.22222222222222
+Marine Le Pen,12,19.02
+Marine Le Pen,13,19.875
+Nathalie Arthaud,1,0.8571428571428571
+Nathalie Arthaud,2,0.5
+Nathalie Arthaud,3,0.25
+Nathalie Arthaud,4,0.08333333333333333
+Nathalie Arthaud,5,0.0625
+Nathalie Arthaud,6,0.1875
+Nathalie Arthaud,7,0.35714285714285715
+Nathalie Arthaud,8,0.6470588235294118
+Nathalie Arthaud,9,0.65
+Nathalie Arthaud,10,0.5714285714285714
+Nathalie Arthaud,11,0.5
+Nathalie Arthaud,12,0.76
+Nathalie Arthaud,13,0.75
+Nicolas Dupont-Aignan,1,2.0
+Nicolas Dupont-Aignan,2,2.0714285714285716
+Nicolas Dupont-Aignan,3,1.2916666666666667
+Nicolas Dupont-Aignan,4,1.5
+Nicolas Dupont-Aignan,5,1.78125
+Nicolas Dupont-Aignan,6,1.5625
+Nicolas Dupont-Aignan,7,1.8214285714285714
+Nicolas Dupont-Aignan,8,1.8823529411764706
+Nicolas Dupont-Aignan,9,1.8
+Nicolas Dupont-Aignan,10,1.6666666666666667
+Nicolas Dupont-Aignan,11,1.8703703703703705
+Nicolas Dupont-Aignan,12,1.82
+Nicolas Dupont-Aignan,13,1.625
+Philippe Poutou,1,1.0714285714285714
+Philippe Poutou,2,1.0714285714285714
+Philippe Poutou,3,0.9583333333333334
+Philippe Poutou,4,0.7916666666666666
+Philippe Poutou,5,0.53125
+Philippe Poutou,6,0.78125
+Philippe Poutou,7,0.5357142857142857
+Philippe Poutou,8,0.7647058823529411
+Philippe Poutou,9,0.85
+Philippe Poutou,10,1.0476190476190477
+Philippe Poutou,11,1.0740740740740742
+Philippe Poutou,12,1.08
+Philippe Poutou,13,0.875
+Valérie Pécresse,1,16.285714285714285
+Valérie Pécresse,2,16.0
+Valérie Pécresse,3,16.791666666666668
+Valérie Pécresse,4,16.583333333333332
+Valérie Pécresse,5,15.875
+Valérie Pécresse,6,15.5625
+Valérie Pécresse,7,14.714285714285714
+Valérie Pécresse,8,13.735294117647058
+Valérie Pécresse,9,13.475
+Valérie Pécresse,10,11.880952380952381
+Valérie Pécresse,11,10.907407407407407
+Valérie Pécresse,12,10.82
+Valérie Pécresse,13,10.75
+Yannick Jadot,1,6.785714285714286
+Yannick Jadot,2,6.785714285714286
+Yannick Jadot,3,5.25
+Yannick Jadot,4,5.291666666666667
+Yannick Jadot,5,5.15625
+Yannick Jadot,6,4.84375
+Yannick Jadot,7,5.0
+Yannick Jadot,8,5.205882352941177
+Yannick Jadot,9,5.225
+Yannick Jadot,10,5.5
+Yannick Jadot,11,5.685185185185185
+Yannick Jadot,12,5.62
+Yannick Jadot,13,5.25
