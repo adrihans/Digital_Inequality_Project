@@ -5,7 +5,7 @@
 
 For this project, I want to focus on Twitter participation and engagement during the French presidential campaign. 
 To do that, I retrieved several types of data: tweets, publications from Factiva, time spent on media from ARCOM and polls, as listed below. 
-I expect to find some correlations between each data types and to study what might be relevant, for instance using NLP tools, if it seems relevant.  
+I expect to find some correlations between each data types and to study what might be relevant, for instance using NLP tools.
 
 ### Data Sources: 
 
